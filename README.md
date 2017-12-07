@@ -1,7 +1,9 @@
-[戳我下载 ==> 欢迎小伙伴指出存在的问题
-</br></br>
-已知问题：
-</br></br>
-1.坐标计算效率问题, 考虑用matrix代替坐标计算](https://pan.baidu.com/s/1sl3FUs1)
+[戳我下载 ==>](https://pan.baidu.com/s/1hsF3XUO)
 
-![image](https://github.com/153437803/StockChart/blob/master/Screenrecorder-2017-12-05.gif )  
+![image](https://github.com/153437803/LoopView/blob/master/Screenrecorder-2017-12-07.gif )  
+
+ ```
+ 解决问题：
+ 
+ 孩子布局, 长按与点击时间的冲突
+ ```
