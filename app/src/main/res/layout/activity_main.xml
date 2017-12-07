@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.demo.loopview.LoopView
+        android:id="@+id/loop1"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="10dp"
+        android:background="#66666677"
+        android:padding="10dp" />
+
+    <com.demo.loopview.LoopView
+        android:id="@+id/loop2"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="10dp"
+        android:background="#66666677"
+        android:padding="10dp" />
+
+    <com.demo.loopview.LoopView
+        android:id="@+id/loop3"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="10dp"
+        android:background="#66666677"
+        android:padding="10dp" />
+
+</LinearLayout>
